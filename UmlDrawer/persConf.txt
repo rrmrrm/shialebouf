@@ -1,0 +1,10 @@
+pythonCommand :
+python3
+trainerPath :
+trainer.py
+trainerLogPath :
+trainerLog.txt
+classifierPath :
+classifier.py
+classifierLogPath :
+classifierLog.txt

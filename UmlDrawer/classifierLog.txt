@@ -1,0 +1,34 @@
+active directory: /home/miki/szakdoga/UmlDrawer
+files in ACTIVE DIRECTORY:
+['PyModel', 'persistence', 'persConf.txt', 'GenericFileUIM', 'compositiont.h', 'tensorFlowTrain_err.log', 'view', 'logfiles', 'userinputdialog.ui', 'toCpp.txt', 'painter_main', 'trainer.py', 'classifierLog.txt', 'network', 'build-tests-Desktop-Debug', 'Test', 'common.hpp', 'qrandomgenerator.cpp', 'model', 'conf.txt', 'toPy.txt', 'savelastdrawingwidget.ui', 'hunTranslation.qm', 'savedModelStates', 'comm.py', 'painter.pro', 'userinputdialog.cpp', 'trainedNetwork.txt', 'qrandomgenerator.h', 'hunTranslation.ts', 'savelastdrawingwidget.cpp', 'TrainingUIM', 'shape_drawing', 'functions.hpp', 'DrawingPopulationUIM', 'savelastdrawingwidget.h', 'trainerLog.txt', 'userinputdialog.h', 'painter.pro.user', 'trainingDataMSave', 'widget.ui', 'classifier.py', 'compositiont.cpp']
+loading model from /home/miki/szakdoga/UmlDrawer/PyModel
+writing '_CLASSIFIER_STARTED_' message to painter componenet
+wrote
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 647ms/step
+test prediction: [9.8872864e-01 3.4278894e-08 1.0020529e-18 1.8882133e-16 6.4807308e-01
+ 3.1466912e-10]
+sending prediction to outStream
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+read '_DO_SHUTDOWN_', which means it's time to stop. GG

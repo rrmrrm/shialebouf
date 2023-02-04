@@ -1,0 +1,7 @@
+/home/miki/.local/lib/python3.10/site-packages/keras/backend.py:5534: UserWarning: "`categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+WARNING:absl:Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+Traceback (most recent call last):
+  File "/home/miki/szakdoga/UmlDrawer/trainer.py", line 320, in <module>
+    mx = model.layers[l].get_weights()[0]
+IndexError: list index out of range

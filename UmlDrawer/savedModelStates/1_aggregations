@@ -1,0 +1,512 @@
+51
+9
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+1
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	9
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+1
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	9
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+1
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	18
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+10
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	18
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+10
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	18
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+10
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	20
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+19
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	20
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+19
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	20
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+19
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	21
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+19
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	21
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+19
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	21
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+19
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	27
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+26
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	27
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+26
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	27
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+26
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	11
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+27
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	11
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+27
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	11
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+27
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	29
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+28
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	29
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+28
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	29
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+28
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	30
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+28
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	30
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+28
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	30
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+28
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	29
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+28
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	29
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+28
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	29
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+28
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	7
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+29
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	7
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+29
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	7
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+29
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	7
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+29
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	7
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+29
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	7
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+29
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	30
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+28
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	30
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+28
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	30
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+28
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	16
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+30
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	16
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+30
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	16
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+30
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	16
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+30
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	16
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+30
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	16
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+30
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	36
+FULLLINE
+0
+1
+2translationChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+35
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QPoint, QPoint)
+	36
+FULLLINE
+0
+1
+2directionChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+35
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, Direction, Direction)
+	36
+FULLLINE
+0
+1
+2areaChangedCalled(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+35
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, std::weak_ptr<Plug>, QRect)
+	33
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+36
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	33
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+36
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	33
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+36
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+	11
+FULLLINE
+0
+1
+2translationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+27
+FULLLINE
+0
+1
+1connectorTranslationChanged(std::weak_ptr<Connector>, QPoint, QPoint)
+	11
+FULLLINE
+0
+1
+2directionChanged(std::weak_ptr<Connector>, Direction, Direction)
+27
+FULLLINE
+0
+1
+1connectorDirectionChanged(std::weak_ptr<Connector>, Direction, Direction)
+	11
+FULLLINE
+0
+1
+2areaChanged(std::weak_ptr<Connector>, QRect)
+27
+FULLLINE
+0
+1
+1connectorAreaChanged(std::weak_ptr<Connector>, QRect)
+

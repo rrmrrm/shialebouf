@@ -1,0 +1,15 @@
+colsNum : 30
+concatenatedCsvFileName : /home/miki/szakdoga/UmlDrawer/Test/python/drawingsInCsvForTest/drawings.csv
+maxAmplitudeMultiplier : 1.000000
+maxDeviation : 1.000000
+maxRangeRatio : 1.000000
+maxScaleX : 1.000000
+maxScaleY : 1.000000
+minDeviation : 1.000000
+minRangeRatio : 1.000000
+minScaleX : 1.000000
+minScaleY : 1.000000
+pointModificationRate : 0.000000
+populationSize : 1
+rowsNum : 30
+scaleChance : 0.000000

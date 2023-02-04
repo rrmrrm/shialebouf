@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/miki/szakdoga/UmlDrawer/Test/python/../../trainer.py", line 54, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
