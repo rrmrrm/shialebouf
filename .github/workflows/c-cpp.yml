@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Display the current dir
-      run: echo $pwd
+      run: echo $PWD
       shell: bash
     - name: setPermissionToMaximum
       run: |
