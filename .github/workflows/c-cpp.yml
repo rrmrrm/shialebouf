@@ -15,6 +15,9 @@ jobs:
     - name: Display the current dir
       run: echo $PWD
       shell: bash
+    - name: create configure script
+      run: echo > configure
+      shell: bash
     - name: list stuff in the dir
       run: ls -la
       shell: bash
