@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Display the current dir
+      run: echo $pwd
+      shell: bash
     - name: setPermissionToMaximum
       run: |
         chmod a+x configure
