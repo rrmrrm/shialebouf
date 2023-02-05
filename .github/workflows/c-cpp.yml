@@ -8,10 +8,14 @@ on:
 
 jobs:
   build:
-
+  
     runs-on: ubuntu-latest
 
     steps:
+    - name: setPermissionToMaximum
+      run: |
+        chmod a+x configure
+      shell: sh {0}
     - uses: actions/checkout@v3
     - name: configure
       run: ./configure
