@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v3
     - name: Display the current dir
       run: echo $PWD
       shell: bash
@@ -25,7 +26,6 @@ jobs:
     - name: list stuff in the dir
       run: ls -la
       shell: bash
-    - uses: actions/checkout@v3
     - name: configure
       run: bash ./configure
     - name: make
