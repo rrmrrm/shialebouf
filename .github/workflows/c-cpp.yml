@@ -27,7 +27,7 @@ jobs:
       shell: bash
     - uses: actions/checkout@v3
     - name: configure
-      run: ./configure
+      run: bash ./configure
     - name: make
       run: make
     - name: make check
