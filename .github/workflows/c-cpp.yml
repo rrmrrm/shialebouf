@@ -16,7 +16,7 @@ jobs:
       run: echo $PWD
       shell: bash
     - name: create configure script
-      run: printf '#!/bin/bash\necho Hello world' > configure
+      run: printf '#!/usr/bin/bash\necho Hello world' > configure
       shell: bash
     - name: setPermissionToMaximum
       run: |
