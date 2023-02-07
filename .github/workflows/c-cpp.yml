@@ -41,7 +41,7 @@ jobs:
       run: ls -la
       shell: bash
     - name: run qmake
-      run: qmake6 –makefile painter.pro
+      run: qmake6
       shell: bash
     - name: make
       run: make
