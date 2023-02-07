@@ -21,8 +21,8 @@ jobs:
         echo 'sudo apt install pip' > configure |
         echo 'pip install tensorflow' > configure
       shell: bash
-    - name cat configure
-      run cat configure
+    - name: cat configure
+      run: cat configure
       shell: bash
     - name: setPermissionToMaximum
       run: |
