@@ -19,20 +19,30 @@ jobs:
     - name: create configure script
       run: echo 'sudo apt update && sudo apt upgrade' > configure |
         echo 'sudo apt install pip' >> configure |
-        echo 'pip install tensorflow' >> configure
+        echo 'pip install tensorflow' >> configure |
+        echo 'sudo apt install qt6-base-dev' >> configure |
+        echo 'sudo apt install gcc' >> configure |
+        echo 'sudo apt install g++' >> configure |
+        echo 'sudo apt install make' >> configure
       shell: bash
-    - name: cat configure
+    - name: print content of configure
       run: cat configure
       shell: bash
-    - name: setPermissionToMaximum
+    - name: add xecute permission to all
       run: |
         chmod a+x configure
       shell: bash
-    - name: list stuff in the dir
-      run: ls -la
-      shell: bash
     - name: configure
       run: bash ./configure
+    - name: change to build dir
+      run: cd UmlDrawer
+      shell: bash
+    - name: list stuff in the build the dir
+      run: ls -la
+      shell: bash
+    - name: run qmake
+      run: qmake6 –makefile painter.pro && qmake6 –build painter.pro
+      shell: bash
     - name: make
       run: make
     - name: make check
