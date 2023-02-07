@@ -17,7 +17,12 @@ jobs:
       run: echo $PWD
       shell: bash
     - name: create configure script
-      run: echo 'echo Hello world' > configure
+      run: echo 'sudo apt update && sudo apt upgrade' > configure |
+        echo 'sudo apt install pip' > configure |
+        echo 'pip install tensorflow' > configure
+      shell: bash
+    - name cat configure
+      run cat configure
       shell: bash
     - name: setPermissionToMaximum
       run: |
