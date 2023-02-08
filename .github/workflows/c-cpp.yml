@@ -34,14 +34,8 @@ jobs:
       shell: bash
     - name: configure
       run: bash ./configure
-    - name: change to build dir
-      run: cd UmlDrawer
-      shell: bash
-    - name: list stuff in the build the dir
-      run: ls -la
-      shell: bash
-    - name: run qmake
-      run: qmake6
+    - name: change to build dir and list stuff in the build the dir and run qmake
+      run: cd UmlDrawer && ls -la && qmake6
       shell: bash
     - name: make
       run: make
