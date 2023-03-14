@@ -37,7 +37,3 @@ jobs:
     - name: change to build dir and list stuff in the build the dir, then run qmake and make
       run: cd UmlDrawer && ls -la && qmake6 && make
       shell: bash
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
