@@ -37,9 +37,7 @@ Copy the executable from UmlDrawer/buid to UmlDrawer/ with the following command
 cp ./project ../
 ```
 ### Run
-1 standing in UmlDrawer/
-
-1 run:
+standing in UmlDrawer folder:
 ```
 ./project
 ```
