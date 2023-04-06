@@ -21,7 +21,9 @@ sudo pip install tensorflow
 ```
 
 install qt
-TODO
+```
+sudo apt install qt6-base-dev
+```
 
 ### Build
 
